@@ -257,7 +257,7 @@ print(f"|{'Percentage':<15}{PERCENTAGE:<15}{'Rank':<15}{'-':<54}|")
 print(f"|{'Division':<15}{GH:<15}{'Result':<15}{result:<54}|")
 print("-" * 100)
 
-print("it is completed")
+
 
 # #  Compare Two Large Files Line by Line
 # # You are given two large text files. Write a program that compares them line by line and prints the differences. If a line exists in one file but not the other, highlight it.
