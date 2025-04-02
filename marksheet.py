@@ -256,7 +256,7 @@ print("-"*100)
 print(f"|{'Percentage':<15}{PERCENTAGE:<15}{'Rank':<15}{'-':<54}|")
 print(f"|{'Division':<15}{GH:<15}{'Result':<15}{result:<54}|")
 print("-" * 100)
-
+print("it is merge ")
 
 
 # #  Compare Two Large Files Line by Line
