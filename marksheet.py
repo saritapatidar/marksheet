@@ -205,6 +205,7 @@ else:
     d="D"
 marks_total=lo+h+m+v+l
 ts=500
+
 if marks_total<=500 and marks_total>=400:
     gr="A+"
 elif marks_total<400 and marks_total>=300:
